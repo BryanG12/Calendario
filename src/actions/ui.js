@@ -8,10 +8,3 @@ export const uiOpenModal = () => ({
 export const uiCloseModal = () => ({
   type: types.uiCloseModal
 })
-
-
-// export const startOpenModal = () => (
-//   return(dispatch) => {
-//     dispatch(uiOpenModal());
-//   }
-// )
